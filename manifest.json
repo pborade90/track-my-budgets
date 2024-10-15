@@ -1,7 +1,7 @@
 {
   "name": "TrackMyBudgets",
   "short_name": "TrackMyBudgets",
-  "start_url": "/index.html",
+  "start_url": "/ ",
   "display": "standalone",
   "background_color": "#fafffc",
   "theme_color": "#5263ff",
